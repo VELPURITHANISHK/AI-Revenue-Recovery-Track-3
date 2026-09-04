@@ -1,4 +1,4 @@
-# 🤖 AI Revenue Recovery Agent
+# AI Revenue Recovery Agent
 
 > **Don't just detect failed payments. Recover the revenue.**
 
